@@ -1,3 +1,4 @@
+![logo](https://github.com/AnujaChaudhari17/Anuja-Chaudhari/blob/main/Github%20banner.jpeg)
 <h1 align="center">Hi, I'm Anuja Chaudhari</h1>
 <h3 align="center">I am a B.Tech undergraduate student at the Indian Institute of Technology Gandhinagar.</h3>
 
