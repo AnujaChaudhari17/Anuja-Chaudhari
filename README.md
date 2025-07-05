@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Anuja Chaudhari</h1>
 <h3 align="center">I am a B.Tech undergraduate student at the Indian Institute of Technology Gandhinagar.</h3>
 
-- 📫 How to reach me **23110034@iitgn.ac.in**
+- 📫 How to reach me **anuja.chaudhari@iitgn.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
