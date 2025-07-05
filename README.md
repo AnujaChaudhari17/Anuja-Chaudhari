@@ -15,10 +15,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anujachaudhari17&show_icons=true&locale=en&layout=compact" alt="anujachaudhari17" /></p>
 
 
-## 📌 My Repositories (in order of importance)
-
-1. [👤 Anuja-Chaudhari](https://github.com/AnujaChaudhari17/Anuja-Chaudhari)
-2. [🔧 WiSH RISC-V Project](https://github.com/AnujaChaudhari17/WiSH-25-Mentee-Texas-Instruments-Bangalore)
-3. [🧬 Genomics Accelerator](https://github.com/AnujaChaudhari17/Hardware-Acceleration-for-Genomics)
-4. [🎹 Musical Keyboard](https://github.com/AnujaChaudhari17/Musical-Keyboard)
-5. [🧮 Approximate Multipliers (AI4Ax)](https://github.com/AnujaChaudhari17/Learning-to-Design-Application-Aware-Approximate-Multipliers)
